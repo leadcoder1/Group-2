@@ -15,10 +15,14 @@ My Interest in IT centres around computer programming, primarily because I can c
 My interest in IT really started at the beginning of high school because I was shown how technology has advanced over the years and I wanted to contribute to this evolution. My high school has a 1:1 device policy, so we use IT and computer solutions daily in my studies.
 One particular event that sparked my interest in IT was a careers expo that was held at my school. I wandered to the section that was talking about careers in IT and from what I saw I was intrigued by how the virtual world has progressed so much due to augmented and virtual realities. This sparked my interest as I wanted to contribute to developing this type of technology as It has a lot of potential to giving people more entertainment as well as a more interactive workstyle.
 ## IT Experience
-The experience I have in IT to date is in terms of Programming. I am able to program in several languages, such as C++, Python, C#, JavaScript, HTML 5. I also have experience with Game Development, using development platforms or game engines such as Unity and Unreal Engine.
+The experience I have in IT to date is in terms of Programming. I am able to program in several languages, such as C++, Python, C#, JavaScript, HTML 5. I also have experience
+with Game Development, using development platforms or game engines such as Unity and Unreal Engine.
+<br>
 <br>Why did you choose to come to RMIT?
 <br>I chose to study at RMIT because I wanted to further increase my understanding of technology and ways in which I can use it to apply for careers once I have finished my studies.
+<br>
 <br>What do you expect to learn during your studies?
 <br>From my studies at RMIT, I expect to learn more about the field of IT such as programming, cybersecurity and networking.
+<br>
 <br>What do you expect to learn during your studies?
 <br>From my studies at RMIT, I expect to learn more about the field of IT such as programming, cybersecurity and networking.
