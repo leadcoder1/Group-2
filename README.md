@@ -1,10 +1,10 @@
 ## My Personal Profile
 ![image](https://user-images.githubusercontent.com/80801153/111904441-089fbd00-8a82-11eb-940b-6ee4c8146cc7.png)
 
-Name: Lachlan Wild
-Student Number: s3893772
-Email: s3893772@student.rmit.edu.au
-IT-Profile: https://leadcoder1.github.io/IT-Profile/
+<p>"Name: Lachlan Wild"</p>
+<p>"Student Number: s3893772"</p>
+<p>"Email: s3893772@student.rmit.edu.au"</p>
+<p>"IT-Profile: https://leadcoder1.github.io/IT-Profile/"</p>
 
 
 Current Education
