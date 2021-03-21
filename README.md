@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Personal Profile
 
 You can use the [editor on GitHub](https://github.com/leadcoder1/Group-2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
